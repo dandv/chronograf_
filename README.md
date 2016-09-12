@@ -4,7 +4,7 @@ Chronograf is a closed-source project. The backlog and bug tracker are managed o
 
 ## Get Chronograf
 
-Please visit https://influxdb.com/chronograf/index.html to download Chronograf. It's currently available as a `.deb` or `.rpm` file. OS X installation will be coming soon.
+Please visit https://influxdb.com/chronograf/index.html to download Chronograf. It's currently available as a `.deb` or `.rpm` file, and for OS X via `brew install chronograf`.
 
 ## Support & Feature Requests
 
